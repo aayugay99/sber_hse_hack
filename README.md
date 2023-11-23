@@ -22,3 +22,5 @@
 conda env create -f environment.yml
 conda activate sber
 ```
+
+Данные можно найти [тут](https://www.kaggle.com/datasets/okunevda/hsexsber).
